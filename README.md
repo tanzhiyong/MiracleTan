@@ -1,2 +1,2 @@
-# mozhijie.github.io
-莫志杰的个人网站
+# tanzhiyong.github.io
+谭志泳的个人网站
